@@ -1,7 +1,9 @@
 🔧 ASTRACAT | Developer @ ASTRACAT Projects
 
 🚀 Разрабатываю технологические решения для экосистемы ASTRACAT
+
 💻 Tech Stack: Python • C++ • Go • Rust
+
 📡 Focus: Network programming • API • Automation • Tools
 
 📦 Мои проекты:
