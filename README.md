@@ -9,4 +9,5 @@
 • 🌐 Сетевые сервисы 
 • 🤖 Automation tools
 
-🌐 Все проекты: https://astracat.ru
+🌐 Сайт: https://astracat.ru
+📢 Канал: https://t.me/astracatui
