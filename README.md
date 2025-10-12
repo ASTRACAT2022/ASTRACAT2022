@@ -12,4 +12,4 @@
 • 🤖 Automation tools
 
 🌐 Сайт: https://astracat.ru
-📢 Канал: https://t.me/astracatui
+📢 Канал: https://t.me/astracatuo
